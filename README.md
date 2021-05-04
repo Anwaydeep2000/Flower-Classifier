@@ -1,1 +1,1 @@
-# Flower-Classifier using Kneighbouring
+# Flower-Classifier using KNeighborsClassifier
